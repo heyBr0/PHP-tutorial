@@ -27,7 +27,7 @@ htdocs
 --------------------------------------------------------------------
 
 ### display errors:
-etc/php.ini: display_errors:On
-restart Apache Server
+##### etc/php.ini: display_errors:On
+##### restart Apache Server
 --------------------------------------------------------------------
 
