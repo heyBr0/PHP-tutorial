@@ -26,8 +26,22 @@ htdocs
 
 --------------------------------------------------------------------
 
+### To start XAMPP simply call this command:
+sudo /opt/lampp/lampp start
+
+### Also, note that there is a graphical tool that you can use to manage your servers easily. You can start this tool with the following commands:
+
+cd /opt/lampp
+
+sudo ./manager-linux-x64.run
+
+--------------------------------------------------------------------
+
 ### display errors:
 ##### etc/php.ini: display_errors:On
 ##### restart Apache Server
 --------------------------------------------------------------------
 
+### Permission for file upload in to the “uploads” folder (CLI into directory):
+
+chmod 777 uploads
