@@ -45,3 +45,8 @@ sudo ./manager-linux-x64.run
 ### Permission for file upload in to the “uploads” folder (CLI into directory):
 
 chmod 777 uploads
+
+--------------------------------------------------------------------
+### phpMyAdmin → database → create database
+
+http://localhost/phpmyadmin/index.php?lang=en
